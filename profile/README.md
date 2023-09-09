@@ -46,7 +46,7 @@ To simplify development in the AsmX language, we offer the following tools and p
 
 If you have any questions or suggestions, feel free to contact us. You can find us in our official communication channels:
 
-- GitHub: AsmX on GitHub
+- GitHub: [AsmX on GitHub](https://github.com/langprogramming-AsmX/.github/blob/main/profile/README.md)
 
 Thank you so much for your interest in AsmX! We hope that our programming language will be useful and will allow you to create efficient and high-quality code. We are pleased to welcome you to our developer community! 👨‍💻👩‍💻
 

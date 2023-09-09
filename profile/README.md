@@ -34,7 +34,7 @@ Detailed documentation on AsmX can be found on our website: AsmX Documentation. 
 
 ## AsmX Standard
 
-The AsmX standard is the main document describing the programming language. The full text of the standard is available in our GitHub repository: AsmX Standard.
+The AsmX standard is the main document describing the programming language. The full text of the standard is available in our GitHub repository: [AsmX Standard](https://github.com/langprogramming-AsmX/SL).
 
 ## Tools and plugins
 

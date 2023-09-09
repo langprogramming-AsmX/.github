@@ -40,7 +40,7 @@ The AsmX standard is the main document describing the programming language. The 
 
 To simplify development in the AsmX language, we offer the following tools and plugins:
 
-- Extension for VS Code: AsmX Extension
+- Extension for VS Code: [AsmX Extension](https://marketplace.visualstudio.com/items?itemName=AsmX.AsmX]
 
 ## Contacts
 

@@ -50,5 +50,6 @@ If you have any questions or suggestions, feel free to contact us. You can find 
 
 Thank you so much for your interest in AsmX! We hope that our programming language will be useful and will allow you to create efficient and high-quality code. We are pleased to welcome you to our developer community! 👨‍💻👩‍💻
 
+The Telegram Channel: [t.me/news_asmx](https://t.me/news_asmx)
 
 

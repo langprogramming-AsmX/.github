@@ -52,4 +52,5 @@ Thank you so much for your interest in AsmX! We hope that our programming langua
 
 The Telegram Channel: [t.me/news_asmx](https://t.me/news_asmx)
 
+Founder & CEO of AsmX, [Tai Husk](https://github.com/TaiHusk)
 
